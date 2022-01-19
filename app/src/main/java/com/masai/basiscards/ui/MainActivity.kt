@@ -1,7 +1,8 @@
-package com.masai.basiscards
+package com.masai.basiscards.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.masai.basiscards.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
